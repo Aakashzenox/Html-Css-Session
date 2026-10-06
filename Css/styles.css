@@ -1,3 +1,17 @@
 h1{
     color: blue;
 }
+ /* example of id */
+#para1{
+    color: red;
+}
+#para2{
+    color: green;
+}
+#para3{
+    color: blue;
+}
+/* Example of class */
+.highlight {
+    color: red;
+}
