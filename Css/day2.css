@@ -1,0 +1,28 @@
+.college-name{
+    /* Change Text bg color */
+    background-color: lightblue;
+
+    /* Change Text alignment */
+    text-align: center;
+
+    /* Change Text color */
+    color: blue;
+
+    /* Change Text size */
+    font-size: 30px;
+
+    /* Change Text font */
+    font-family: 'Times New Roman', Times, serif;
+
+    /* Change Text weight */
+    font-weight: bold;
+    /* Change Text decoration CAPITOL */
+    text-decoration: underline;
+
+    /* Change Text transform LOWER*/
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px gray;
+}
+margin{
+    margin: 20px;
+}
